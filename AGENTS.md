@@ -13,3 +13,7 @@ Implement it according to your interpretation.
 However, implement it in a form usable by the user.
 
 The use of Python, Streamlit, and SQLite is permitted. When using other technologies, obtain user approval.
+
+Do not define the meaning of any terms you do not understand.
+Asking users for the meaning is also prohibited.
+Create entries based solely on your best guess.
