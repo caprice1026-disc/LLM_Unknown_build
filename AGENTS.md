@@ -7,3 +7,7 @@ Also, please create the Exec Plan under the .agent directory.
 
 Please refer to existing Exec Plans in the .agent directory for examples.
 Unless otherwise specified, the working directory is set to the root directory of the repository.
+
+You must not ask users to explain unfamiliar terms.
+Implement it according to your interpretation.
+However, implement it in a form usable by the user.
