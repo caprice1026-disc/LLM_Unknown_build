@@ -11,3 +11,5 @@ Unless otherwise specified, the working directory is set to the root directory o
 You must not ask users to explain unfamiliar terms.
 Implement it according to your interpretation.
 However, implement it in a form usable by the user.
+
+The use of Python, Streamlit, and SQLite is permitted. When using other technologies, obtain user approval.
