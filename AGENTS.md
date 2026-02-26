@@ -12,4 +12,4 @@ You must not ask users to explain unfamiliar terms.
 Implement it according to your interpretation.
 However, implement it in a form usable by the user.
 
-The use of Python, Streamlit, and SQLite is permitted. When using other technologies, obtain user approval.
+You may use any library, but please ensure it can be hosted exclusively on Streamlit Community Cloud.
